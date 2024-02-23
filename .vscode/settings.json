@@ -3,5 +3,6 @@
     "solidity.formatter": "forge",
     "[solidity]": {
         "editor.defaultFormatter": "JuanBlanco.solidity"
-    }
+    },
+    "solidity.defaultCompiler": "localFile"
 }
