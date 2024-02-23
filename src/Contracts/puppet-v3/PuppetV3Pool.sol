@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: MIT
 pragma solidity =0.7.6;
 
-import "@uniswap/v3-core/contracts/interfaces/IERC20Minimal.sol";
-import "@uniswap/v3-core/contracts/interfaces/IUniswapV3Pool.sol";
-import "@uniswap/v3-core/contracts/libraries/TransferHelper.sol";
-import "@uniswap/v3-periphery/contracts/libraries/OracleLibrary.sol";
+import "v3-core/interfaces/IERC20Minimal.sol";
+import "/v3-core/interfaces/IUniswapV3Pool.sol";
+import "v3-core/libraries/TransferHelper.sol";
+import "v3-periphery/libraries/OracleLibrary.sol";
 
 /**
  * @title PuppetV3Pool

@@ -6,3 +6,4 @@ openzeppelin-contracts/=lib/openzeppelin-contracts/
 safe-contracts/=lib/safe-contracts/contracts/
 solady/=lib/solady/src/
 solmate/=lib/solmate/src/
+v3-periphery/=lib/v3-periphery/contracts/
