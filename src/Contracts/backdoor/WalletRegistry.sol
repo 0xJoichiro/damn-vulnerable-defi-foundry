@@ -4,8 +4,8 @@ pragma solidity ^0.8.0;
 import "solady/auth/Ownable.sol";
 import "solady/utils/SafeTransferLib.sol";
 import "openzeppelin-contracts/contracts/token/ERC20/IERC20.sol";
-import "@gnosis.pm/safe-contracts/contracts/GnosisSafe.sol";
-import "@gnosis.pm/safe-contracts/contracts/proxies/IProxyCreationCallback.sol";
+import "safe-contracts/GnosisSafe.sol";
+import "safe-contracts/proxies/IProxyCreationCallback.sol";
 
 /**
  * @title WalletRegistry
