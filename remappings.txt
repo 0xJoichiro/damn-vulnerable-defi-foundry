@@ -4,4 +4,5 @@ forge-std/=lib/forge-std/src/
 openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
 openzeppelin-contracts/=lib/openzeppelin-contracts/
 safe-contracts/=lib/safe-contracts/contracts/
+solady/=lib/solady/src/
 solmate/=lib/solmate/src/

@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-import "solady/src/utils/SafeTransferLib.sol";
+import "solady/utils/SafeTransferLib.sol";
 import "openzeppelin-contracts/contracts/interfaces/IERC3156FlashBorrower.sol";
 import "./NaiveReceiverLenderPool.sol";
 
